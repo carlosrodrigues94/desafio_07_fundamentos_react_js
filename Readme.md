@@ -71,10 +71,11 @@ transaction: Transaction;
 ### Layout da aplicação
 
 <img src="/Finances_web_1.png">
+<img src="/Finances_web_2.png">
 
 ### Específicação dos testes
 
-Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir para que o teste passe.
+Em cada teste, tem uma breve descrição no a aplicação cumpre para que o teste passe.
 
 Para esse desafio, temos os seguintes testes:
 
